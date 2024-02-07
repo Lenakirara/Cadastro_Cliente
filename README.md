@@ -15,24 +15,30 @@ O projeto visa criar um sistema de gerenciamento de clientes, abrangendo operaç
      - `Cadastrar Cliente` DEFAULT 'X'
      -  `Exibir Dados do Cliente`
      -  `Editar Dados do Cliente`
-     -  `Deletar Cadstro`
+     -  `Deletar Cadastro`
   
 ![image](https://github.com/Lenakirara/Cadastro_Cliente/assets/45247383/adba3b80-38da-4242-8d06-3866f3dc1eaa)
 
 2. Tela:  `Cadastrar Cliente`
+   - Confirmar mensagem de sucesso quando cadastro for inserido.
+   - Campos nome, cpf e rg precisam ser obrigatoriamente informados.
    
 ![image](https://github.com/Lenakirara/Cadastro_Cliente/assets/45247383/941540e6-8bb4-4a19-99e1-91ba684d362c)
 
 3. Tela: `Exibir Dados do Cliente`
-
+   - Informar na tela todos os registros encontrados, com a descrição dos campos.
+  
 ![image](https://github.com/Lenakirara/Cadastro_Cliente/assets/45247383/48795cfe-2046-41e1-90b0-a2a01a41f8f3)
 
 4. Tela: `Editar Dados do Cliente`
+    - Verificar se cpf e rg estão preenchidos.
+    - Selecionar o registro na tabela de acordo com cpf e rg informado. Caso encontrado realizar modificação da linha na nova tabela.
 
 ![image](https://github.com/Lenakirara/Cadastro_Cliente/assets/45247383/f43b91dd-c606-4278-b109-27f6c247ce3e)
 
-5. Tela: `Deletar Cadstro`
-
+5. Tela: `Deletar Cadastro`
+     - Realizar a exclusão do registro com base nos valores de cpf e rg fornecidos na entrada.
+       
 ![image](https://github.com/Lenakirara/Cadastro_Cliente/assets/45247383/f264fd52-263c-4094-87ca-435c1a4d0992)
 
 
