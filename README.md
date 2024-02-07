@@ -2,6 +2,9 @@
 
 Projeto de atividade final do nível básico [ABAP 4 Girls](https://abapforgirls.tech/)
 
+![image](https://github.com/Lenakirara/Cadastro_Cliente/assets/45247383/a2f22a8b-e6af-4767-992c-dab477201c51)
+
+
 ## Habilidades desenvolvidas:
 - Criação de objeto de dicionário de dados e tabela
 - Utilização de telas de seleção: radiobuttons e select-options
