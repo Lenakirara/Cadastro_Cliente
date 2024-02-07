@@ -17,5 +17,26 @@ O projeto visa criar um sistema de gerenciamento de clientes, abrangendo operaç
      -  `Editar Dados do Cliente`
      -  `Deletar Cadstro`
   
-   ![image](https://github.com/Lenakirara/Cadastro_Cliente/assets/45247383/cd95ef5e-cd04-435b-8348-5c8929140bbf)
+![image](https://github.com/Lenakirara/Cadastro_Cliente/assets/45247383/adba3b80-38da-4242-8d06-3866f3dc1eaa)
+
+2. Tela:  `Cadastrar Cliente`
+   
+![image](https://github.com/Lenakirara/Cadastro_Cliente/assets/45247383/941540e6-8bb4-4a19-99e1-91ba684d362c)
+
+3. Tela: `Exibir Dados do Cliente`
+
+![image](https://github.com/Lenakirara/Cadastro_Cliente/assets/45247383/48795cfe-2046-41e1-90b0-a2a01a41f8f3)
+
+4. Tela: `Editar Dados do Cliente`
+
+![image](https://github.com/Lenakirara/Cadastro_Cliente/assets/45247383/f43b91dd-c606-4278-b109-27f6c247ce3e)
+
+5. Tela: `Deletar Cadstro`
+
+![image](https://github.com/Lenakirara/Cadastro_Cliente/assets/45247383/f264fd52-263c-4094-87ca-435c1a4d0992)
+
+
+
+
+
    
