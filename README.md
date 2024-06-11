@@ -9,9 +9,20 @@ Projeto de atividade final do nível básico [ABAP 4 Girls](https://abapforgirls
 </div>
 
 ## Habilidades desenvolvidas:
-- Criação de objetos de dicionário de dados e tabela
-- Utilização de telas de seleção: radiobuttons e select-options
-- Desenvolvimento de telas de execução: operações CRUD
+1. Criação e Manipulação de Dados:
+     -  Criação de objetos de dicionário de dados e tabela
+     -  Uso de tabelas internas e estruturas de dados para armazenamento temporário
+2. Desenvolvimento de Interface de Usuário:
+     - Utilização de parâmetros e select-options em telas de seleção
+     - Implementação de radiobuttons para alternar entre diferentes operações
+     - Controle de visibilidade e editabilidade de campos na interface com base na operação selecionada
+3. Operações CRUD:
+     - Desenvolvimento das operações de criação, leitura, atualização e exclusão de registros
+4. Validação e Mensagens:
+     - Validação de dados de entrada
+     - Exibição de mensagens de erro e sucesso para o usuário
+5. Interação com Banco de Dados:
+     - Inserção, consulta, atualização e exclusão de registros na base de dados
 
 ## Objetivo do projeto
 O projeto visa criar um sistema de gerenciamento de clientes, abrangendo operações CRUD (Create, Read, Update, Delete). Ele permite o cadastro de novos clientes com informações como nome, CPF, RG, data de nascimento e endereço. Além disso, oferece funcionalidades para exibir, editar e excluir dados de clientes. O sistema utiliza uma interface de usuário com rádio botões para alternar entre as operações e interage com uma tabela de clientes.
