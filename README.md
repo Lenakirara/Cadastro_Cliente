@@ -1,6 +1,6 @@
 # Boas vindas ao repositório Cadastro de Cliente!
 
-Projeto de atividade final do nível básico [ABAP 4 Girls](https://abapforgirls.tech/)
+Projeto de atividade final do nível básico do curso [ABAP 4 Girls](https://abapforgirls.tech/)
 
 <div align="center">
      
